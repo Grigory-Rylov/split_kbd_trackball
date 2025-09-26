@@ -1,0 +1,12 @@
+file_format: "1"
+id: split_kbd_trackball
+name: split_kbd_trackball
+type: shield
+url: https://github.com/grigory-rylov/split_kbd_trackball
+requires: [pro_micro]
+features:
+  - keys
+  - studio
+siblings:
+  - split_kbd_trackball_left
+  - split_kbd_trackball_right
